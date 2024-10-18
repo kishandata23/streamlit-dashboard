@@ -8,6 +8,8 @@ Run bellow command to see the results
 
     python -m streamlit run student_result_analysis_streamlit_app.py
 
+## Check out [Notebook](./student_result_analysis.ipynb) file for detail analysis
+
 ## Dashboard
 ![]()
 
